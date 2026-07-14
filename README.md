@@ -1,4 +1,4 @@
-# Learn-Lynx: GenAI-Powered Study Tutor and Learning Assistant
+# Learn Lynx: GenAI Powered Study Tutor and Learning Assistant
 
 ## Overview
 
