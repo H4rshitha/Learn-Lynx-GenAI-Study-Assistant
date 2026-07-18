@@ -4,7 +4,7 @@
 
 Learn-Lynx is an AI-powered study assistant designed to provide personalized, efficient, and interactive learning support. It leverages Retrieval-Augmented Generation (RAG) and large language models to help students understand concepts, resolve doubts, and prepare for exams effectively.
 
-The system integrates document-based knowledge with real-time reasoning to deliver accurate and context-aware responses.
+The system integrates document based knowledge with real-time reasoning to deliver accurate and context-aware responses.
 
 ---
 
