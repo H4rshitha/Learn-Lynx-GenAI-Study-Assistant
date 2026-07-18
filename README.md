@@ -27,7 +27,7 @@ These issues reduce learning efficiency and increase exam-related stress.
 Learn Lynx addresses these problems through:
 
 - Context aware question answering  
-- AI-generated quizzes for practice  
+- AI generated quizzes for practice  
 - Automated summarization of study material  
 - Retrieval of relevant information from uploaded documents  
 - Grounded responses using both internal and external knowledge  
