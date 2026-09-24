@@ -1,0 +1,11 @@
+{
+  "name": "learn-lynx-genai-study-assistant",
+  "version": "2.0.0",
+  "description": "Agentic AI Learning Assistant & Study Tutor with Grounded RAG, ChromaDB, and Google Gemini",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build",
+    "preview": "npm --prefix frontend run preview"
+  }
+}
