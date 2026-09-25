@@ -1,4 +1,4 @@
-# 🎓 Learn-Lynx — Enterprise GenAI Study Assistant & Multi-Agent Learning Engine
+# Learn-Lynx — Enterprise GenAI Study Assistant & Multi-Agent Learning Engine
 
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115+-009688.svg?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![LangGraph](https://img.shields.io/badge/LangGraph-Multi--Agent-FF6F00.svg?logo=python&logoColor=white)](https://langchain-ai.github.io/langgraph/)
@@ -11,7 +11,7 @@
 
 ---
 
-## 🌟 Key Subsystems & Features
+## Key Subsystems & Features
 
 | Subsystem | Key Capabilities | Tech Stack |
 | :--- | :--- | :--- |
@@ -27,7 +27,7 @@
 
 ---
 
-## 🚀 Quickstart Guide
+## Quickstart Guide
 
 ### Prerequisites
 - **Python 3.10+**
@@ -70,21 +70,21 @@ Frontend runs at: `http://localhost:5173`.
 
 ---
 
-## 🧪 Default Demo Scholar Credentials
+## Default Demo Scholar Credentials
 - **Email**: `harshitha@university.edu`
 - **Password**: `SecurePass2026!`
 *(Or click "Quick Demo Login" on the Login page)*
 
 ---
 
-## ⌨️ Global Keyboard Shortcuts
+## Global Keyboard Shortcuts
 - `⌘ + K` or `Ctrl + K`: Open Command Palette / Quick Search
 - `ESC`: Close Modals / Command Palette
 - `Theme Toggle`: Sun / Moon button in top right header
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 ```
 Learn-Lynx-GenAI-Study-Assistant/
 ├── backend/
@@ -120,7 +120,7 @@ Learn-Lynx-GenAI-Study-Assistant/
 
 ---
 
-## 🎯 Technical Interview Highlights
+## Technical Interview Highlights
 1. **Reciprocal Rank Fusion**: Overcomes dense vector blindspots on exact textbook code symbols by blending sparse BM25 ranks ($k=60$).
 2. **LangGraph State Graph**: Cyclic agentic execution with reflection loops (Reasoning $\rightarrow$ Critic $\rightarrow$ Reasoning revision when confidence < 75%).
 3. **Optimized Latency**: SSE token streaming ensures First-Token Latency < 450 ms while full cross-encoder re-ranking runs asynchronously.
